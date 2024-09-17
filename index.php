@@ -6,8 +6,9 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>Hello</h1>
-    <p>Q</p>
-    
+    <h1>This Is The First Page Written In Php</h1>
+    <?php
+        echo 'Hello World';
+    ?>
 </body>
 </html>
